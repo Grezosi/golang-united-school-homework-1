@@ -6,5 +6,5 @@ import ( "fmt"
 
 func main () {
 solution := emoji.Sprint("Hello :world_map:")
-fmt.PrintLn(solution)
+fmt.Println(solution)
 }
